@@ -1,0 +1,59 @@
+{
+  "name": "Ciftci Takip",
+  "short_name": "Ciftci Takip",
+  "description": "Tarim Yonetim Sistemi - Hasat, Gider, Isci, Ilac, Gubre, Tarla takibi + Hava Durumu",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "./app.html",
+  "scope": "./",
+  "id": "/ciftci-takip/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#1959B9",
+  "theme_color": "#27ae60",
+  "orientation": "portrait",
+  "categories": ["productivity", "business", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Ciftci Takip"
+    }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.ciftcitakip",
+      "id": "com.ciftcitakip"
+    }
+  ]
+}
